@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
   "apps": [
-    { "id": "ImputNet.Helium", "name": "Helium", "source": "winget", "group": "browsers" },
-    { "id": "Vivaldi.Vivaldi", "name": "Vivaldi", "source": "winget", "group": "browsers" },
-    { "id": "Mozilla.Firefox", "name": "Mozilla Firefox", "source": "winget", "group": "browsers" },
-    { "id": "Google.Chrome", "name": "Google Chrome", "source": "winget", "group": "browsers" },
+    { "id": "ImputNet.Helium", "name": "Helium", "source": "winget", "group": "browsers", "icon": "icons/helium.png" },
+    { "id": "Vivaldi.Vivaldi", "name": "Vivaldi", "source": "winget", "group": "browsers", "icon": "icons/vivaldi.png" },
+    { "id": "Mozilla.Firefox", "name": "Mozilla Firefox", "source": "winget", "group": "browsers", "icon": "icons/firefox.png" },
+    { "id": "Google.Chrome", "name": "Google Chrome", "source": "winget", "group": "browsers", "icon": "icons/chrome.png" },
 
-    { "id": "OpenWhisperSystems.Signal", "name": "Signal", "source": "winget", "group": "messaging" },
-    { "id": "OpenWhisperSystems.Signal.Beta", "name": "Signal Beta", "source": "winget", "group": "messaging" },
-    { "id": "Discord.Discord", "name": "Discord", "source": "winget", "group": "messaging" },
-    { "id": "Vencord.Vesktop", "name": "Vesktop", "source": "winget", "group": "messaging" },
-    { "id": "SlackTechnologies.Slack", "name": "Slack", "source": "winget", "group": "messaging" },
+    { "id": "OpenWhisperSystems.Signal", "name": "Signal", "source": "winget", "group": "messaging", "icon": "icons/signal.png" },
+    { "id": "OpenWhisperSystems.Signal.Beta", "name": "Signal Beta", "source": "winget", "group": "messaging", "icon": "icons/signal.png" },
+    { "id": "Discord.Discord", "name": "Discord", "source": "winget", "group": "messaging", "icon": "icons/discord.png" },
+    { "id": "Vencord.Vesktop", "name": "Vesktop", "source": "winget", "group": "messaging", "icon": "icons/vesktop.png" },
+    { "id": "SlackTechnologies.Slack", "name": "Slack", "source": "winget", "group": "messaging", "icon": "icons/slack.png" },
 
-    { "id": "AgileBits.1Password", "name": "1Password", "source": "winget", "group": "passwords" },
-    { "id": "Bitwarden.Bitwarden", "name": "Bitwarden", "source": "winget", "group": "passwords" },
+    { "id": "AgileBits.1Password", "name": "1Password", "source": "winget", "group": "passwords", "icon": "icons/1password.png" },
+    { "id": "Bitwarden.Bitwarden", "name": "Bitwarden", "source": "winget", "group": "passwords", "icon": "icons/bitwarden.png" },
 
-    { "id": "Microsoft.VisualStudioCode", "name": "Visual Studio Code", "source": "winget", "group": "development" },
-    { "id": "Anysphere.Cursor", "name": "Cursor", "source": "winget", "group": "development" },
-    { "id": "Microsoft.WindowsTerminal", "name": "Windows Terminal", "source": "winget", "group": "development" },
-    { "id": "WinSCP.WinSCP", "name": "WinSCP", "source": "winget", "group": "development" },
-    { "id": "PuTTY.PuTTY", "name": "PuTTY", "source": "winget", "group": "development" },
+    { "id": "Microsoft.VisualStudioCode", "name": "Visual Studio Code", "source": "winget", "group": "development", "icon": "icons/vscode.png" },
+    { "id": "Anysphere.Cursor", "name": "Cursor", "source": "winget", "group": "development", "icon": "icons/cursor.png" },
+    { "id": "Microsoft.WindowsTerminal", "name": "Windows Terminal", "source": "winget", "group": "development", "icon": "icons/windows-terminal.png" },
+    { "id": "WinSCP.WinSCP", "name": "WinSCP", "source": "winget", "group": "development", "icon": "icons/winscp.png" },
+    { "id": "PuTTY.PuTTY", "name": "PuTTY", "source": "winget", "group": "development", "icon": "icons/putty.png" },
 
-    { "id": "Anthropic.Claude", "name": "Claude", "source": "winget", "group": "ai" },
-    { "id": "Anthropic.ClaudeCode", "name": "Claude Code", "source": "winget", "group": "ai" },
-    { "id": "Anomaly.OpenCode", "name": "opencode", "source": "winget", "group": "ai" },
+    { "id": "Anthropic.Claude", "name": "Claude", "source": "winget", "group": "ai", "icon": "icons/claude.png" },
+    { "id": "Anthropic.ClaudeCode", "name": "Claude Code", "source": "winget", "group": "ai", "icon": "icons/claude.png" },
+    { "id": "Anomaly.OpenCode", "name": "opencode", "source": "winget", "group": "ai", "icon": "icons/opencode.png" },
 
-    { "id": "7zip.7zip", "name": "7-Zip", "source": "winget", "group": "utilities" },
-    { "id": "Notepad++.Notepad++", "name": "Notepad++", "source": "winget", "group": "utilities" },
-    { "id": "voidtools.Everything", "name": "Everything", "source": "winget", "group": "utilities" },
-    { "id": "Microsoft.PowerToys", "name": "PowerToys", "source": "winget", "group": "utilities" },
+    { "id": "7zip.7zip", "name": "7-Zip", "source": "winget", "group": "utilities", "icon": "icons/7zip.png" },
+    { "id": "Notepad++.Notepad++", "name": "Notepad++", "source": "winget", "group": "utilities", "icon": "icons/notepadplusplus.png" },
+    { "id": "voidtools.Everything", "name": "Everything", "source": "winget", "group": "utilities", "icon": "icons/everything.png" },
+    { "id": "Microsoft.PowerToys", "name": "PowerToys", "source": "winget", "group": "utilities", "icon": "icons/powertoys.png" },
 
-    { "id": "VideoLAN.VLC", "name": "VLC", "source": "winget", "group": "media" },
-    { "id": "OBSProject.OBSStudio", "name": "OBS Studio", "source": "winget", "group": "media" },
+    { "id": "VideoLAN.VLC", "name": "VLC", "source": "winget", "group": "media", "icon": "icons/vlc.png" },
+    { "id": "OBSProject.OBSStudio", "name": "OBS Studio", "source": "winget", "group": "media", "icon": "icons/obs.png" },
 
-    { "id": "Valve.Steam", "name": "Steam", "source": "winget", "group": "gaming" },
-    { "id": "pizzaboxer.Bloxstrap", "name": "Bloxstrap", "source": "winget", "group": "gaming" }
+    { "id": "Valve.Steam", "name": "Steam", "source": "winget", "group": "gaming", "icon": "icons/steam.png" },
+    { "id": "pizzaboxer.Bloxstrap", "name": "Bloxstrap", "source": "winget", "group": "gaming", "icon": "icons/bloxstrap.png" }
   ]
 }
